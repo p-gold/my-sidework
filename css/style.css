@@ -3,6 +3,7 @@ html {
   box-sizing: border-box;
 }
 
+
 body {
   background-color: #fff;
   font-family: serif, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
@@ -132,6 +133,9 @@ nav a:hover {
   padding: px;
   border: 2px solid white;
 }
+
+
+
 
 .bags {
   margin: 40px;
